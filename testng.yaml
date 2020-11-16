@@ -1,0 +1,6 @@
+name: TestNG
+threadCount: 1
+tests:
+    - name: FirstTest
+      classes:
+        - App
